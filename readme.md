@@ -7,4 +7,4 @@ V0.1.1-Beta Build 20191217
 Matchmaking Engine.
 
 ### Contact Information
-QQ: 277195007, WeChat: ustc_xrd, E-mail: github@universalexchange.com
+QQ-Group: 782576812, WeChat: ustc_xrd, E-mail: github@universalexchange.com
